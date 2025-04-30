@@ -165,7 +165,7 @@ const CampusLife = () => {
 
                   <div className="border rounded-lg overflow-hidden hover:shadow-md transition-shadow">
                     <div className="h-48 bg-gray-200">
-                      <img src="https://static.vecteezy.com/system/resources/thumbnails/000/167/400/small_2x/REST.jpg" alt="Cafeteria" className="w-full h-full object-cover" />
+                      <img src="https://svuniversity.edu.in/storage/2022/08/download-1.jpg" alt="Cafeteria" className="w-full h-full object-cover" />
                     </div>
                     <div className="p-4">
                       <h4 className="font-semibold text-iare-blue flex items-center">
@@ -207,7 +207,7 @@ const CampusLife = () => {
 
                   <div className="border rounded-lg overflow-hidden hover:shadow-md transition-shadow">
                     <div className="h-48 bg-gray-200">
-                      <img src="https://img.freepik.com/premium-vector/eco-friendly-lifestyle-modern-flat-design-style-vector-illustration-blue-background-with-set-icons-cityscape-with-skyscrapers-fountain-people-road-recycling-saving-energy-concept_89615-899.jpg" alt="Wi-Fi Campus" className="w-full h-full object-cover" />
+                      <img src="/main.avif" alt="Labs" className="w-full h-full object-cover" />
                     </div>
                     <div className="p-4">
                       <h4 className="font-semibold text-iare-blue flex items-center">

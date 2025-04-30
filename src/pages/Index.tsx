@@ -18,15 +18,12 @@ import {
 const Index = () => {
   const carouselImages = [
     {
-      url: "https://images.shiksha.com/mediadata/images/1551849053php2uy9jd.jpeg",
+      url: "/main.avif",
       title: "Innovation in Computer Science Education"
     },
+
     {
-      url: "https://svuniversity.edu.in/storage/2021/12/DSC04932-1024x683.jpg",
-      title: "Building the Future with Technology"
-    },
-    {
-      url: "https://www.svulibrary.ac.in/data1/images/svce_entrance_close_up.jpg",
+      url: "https://svuniversity.edu.in/storage/2022/10/Computer-Science-and-Engineering-Lab-3-scaled.jpg",
       title: "Excellence in Research and Development"
     }
   ];

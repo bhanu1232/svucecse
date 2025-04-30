@@ -124,7 +124,25 @@ const News = () => {
       image: "https://ijkenggacademy.in/wp-content/uploads/2022/11/gate.jpeg",
       excerpt: "CSE students secured admissions into IIT Madras, IISC Bangalore, IIM Lucknow, and more through GATE & CAT with top scores.",
       link: "https://drive.google.com/file/d/1btnDEald5z2jug1BEHnKCU9hBQpz3aly/view?usp=sharing"
+    },
+    {
+      title: "Industrial Visit to Tech Mahindra",
+      date: "January 15, 2025",
+      category: "Industrial Visit",
+      image: "/techm.jpeg",
+      excerpt: "An insightful industrial visit to Tech Mahindra, providing students with real-world exposure to IT infrastructure, corporate culture, and industry practices.",
+      link: "https://www.techmahindra.com/"
+    },
+    {
+      title: "Placement at Fanatics – 18 LPA",
+      date: "August 28, 2024",
+      category: "Achievements",
+      image: "/fanatics.jpeg",
+      excerpt: "Congratulations to our student for securing a prestigious placement at Fanatics with an impressive package of 18 LPA, showcasing the talent and potential nurtured at our institution.",
+      link: "https://www.fanaticsinc.com/"
     }
+
+
   ];
 
   const archiveNews = [
