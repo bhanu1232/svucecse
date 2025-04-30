@@ -159,14 +159,12 @@ const AboutUs = () => {
                   alt="SVUCE Campus"
                   className="rounded-lg shadow-md w-full h-auto object-cover"
                   onError={(e) => {
-                    e.currentTarget.src = 'https://i.imgur.com/2gdk64H.jpg';
+                    e.currentTarget.src = '/main.avif';
                   }}
                 />
               </div>
             </div>
           </div>
-
-
 
           {/* Vision & Mission */}
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6 mb-8">

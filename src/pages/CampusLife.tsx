@@ -27,7 +27,7 @@ const CampusLife = () => {
           {/* Hero Section */}
           <div className="relative h-64 md:h-[400px] rounded-lg overflow-hidden mb-8">
             <img
-              src="https://i.imgur.com/2gdk64H.jpg"
+              src="/main.avif"
               alt="IARE Campus"
               className="absolute inset-0 w-full h-full object-cover"
             />
