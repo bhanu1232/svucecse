@@ -52,6 +52,14 @@ const News = () => {
 
   const allNews = [
     {
+      title: "Rapsody Games Cup Winners",
+      date: "April 20, 2025",
+      category: "Achievements",
+      image: "https://m.media-amazon.com/images/I/71-GGuLKfGL.jpg",
+      excerpt: "CSE students won the Rapsody Games Cup 2025, showcasing exceptional gaming skills and teamwork in a highly competitive environment.",
+      link: "https://m.media-amazon.com/images/I/71-GGuLKfGL.jpg"
+    },
+    {
       title: "EvoluMIN hackathon winners",
       date: "January 20, 2025",
       category: "Achievements",
